@@ -47,9 +47,7 @@
 
 ---
 
-## 📌 Notes
+## Notes
 - Update **Progress**: `Not Started → In Progress → 25% → 50% → 75% → Completed`.  
-- Keep repo **private** for now since you may build this into a real app.  
-- Consider using **GitHub Projects (Kanban)** if you want visual task tracking, otherwise update this table directly.  
 
 ---
