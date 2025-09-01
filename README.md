@@ -9,7 +9,7 @@
 
 | Date       | Task | Expected Focus | Progress |
 |------------|------|----------------|----------|
-| 09/01/2025 | Install Xcode (Mac) or Swift toolchain (Windows) and set up GitHub repo | Development environment ready; private repo with `.gitignore` | Not Started |
+| 09/01/2025 | Install Xcode (Mac) or Swift toolchain (Windows) and set up GitHub repo | Development environment ready; private repo with `.gitignore` | Completed |
 | 09/02/2025 | Create new Swift project in Xcode; basic “Hello World” screen | Project runs in simulator without errors | Not Started |
 | 09/03/2025 | Research meal/recipe app UI patterns; sketch wireframe (on paper or Figma) | Draft design with recipe list, meal plan view, and shopping list | Not Started |
 | 09/04/2025 | Build basic navigation with `NavigationView` and `TabView` | Switch between tabs: Recipes, Meal Plan, Shopping List | Not Started |
