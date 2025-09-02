@@ -10,7 +10,7 @@
 | Date       | Task | Expected Focus | Progress |
 |------------|------|----------------|----------|
 | 09/01/2025 | Install Xcode (Mac) and set up GitHub repo | Development environment ready; private repo with `.gitignore` | Completed |
-| 09/02/2025 | Create new Swift project in Xcode; basic “Hello World” screen | Project runs in simulator without errors | Completed |
+| 09/02/2025 | Create new Swift project in Xcode; basic “Hello World” screen | Project runs in simulator without errors | [Completed](https://github.com/William3507/foodTrack/blob/main/docs/day2.png) |
 | 09/03/2025 | Research meal/recipe app UI patterns; sketch wireframe (on paper or Figma) | Draft design with recipe list, meal plan view, and shopping list | Not Started |
 | 09/04/2025 | Build basic navigation with `NavigationView` and `TabView` | Switch between tabs: Recipes, Meal Plan, Shopping List | Not Started |
 | 09/05/2025 | Create Recipe model (title, ingredients, instructions, macros) | Swift struct with sample recipe objects | Not Started |
