@@ -4,6 +4,8 @@
 
 ## User settings
 xcuserdata/
+*.xcworkspace
+
 
 ## Obj-C/Swift specific
 *.hmap
@@ -62,4 +64,7 @@ fastlane/screenshots/**/*.png
 fastlane/test_output
 
 .DS_Store
+
+*.xcuserdatad
+*.xcuserstate
 
