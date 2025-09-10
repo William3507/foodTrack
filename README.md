@@ -13,9 +13,9 @@
 | 09/02/2025 | Create new Swift project in Xcode; basic “Hello World” screen | Project runs in simulator without errors | [Completed](https://github.com/William3507/foodTrack/blob/main/docs/day2.png) |
 | 09/03/2025 | Research meal/recipe app UI patterns; sketch wireframe (on paper or Figma) | Draft design with recipe list, meal plan view, and shopping list | Not Started |
 | 09/04/2025 | Build basic navigation with `NavigationView` and `TabView` | Switch between tabs: Recipes, Meal Plan, Shopping List | [Completed](https://github.com/William3507/foodTrack/blob/main/docs/Tabs.png) |
-| 09/05/2025 | Create Recipe model (title, ingredients, instructions, macros) | Swift struct with sample recipe objects | Not Started |
-| 09/06/2025 | Implement in-app list of sample recipes | Recipes show up in a scrollable list | Not Started |
-| 09/07/2025 | Add detail view for recipes (ingredients + macros) | Tap a recipe → detail screen | Not Started |
+| 09/05/2025 | Create Recipe model (title, ingredients, instructions, macros) | Swift struct with sample recipe objects | Completed |
+| 09/06/2025 | Implement in-app list of sample recipes | Recipes show up in a scrollable list | [Completed](https://github.com/William3507/foodTrack/blob/main/docs/Recipes.png) |
+| 09/07/2025 | Add detail view for recipes (ingredients + macros) | Tap a recipe → detail screen | [Completed](https://github.com/William3507/foodTrack/blob/main/docs/DetailedRecipe.png) |
 
 ---
 
