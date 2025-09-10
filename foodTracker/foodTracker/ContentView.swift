@@ -9,12 +9,28 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "cart")
-                .imageScale(.large)
-            Text("Hello, world!")
+        TabView {
+            NavigationStack {
+                RecipesView()
+            }
+            .tabItem {
+                Label("Recipes",systemImage: "book")
+            }
+            
+            NavigationStack {
+                MealPlanView()
+            }
+            .tabItem {
+                Label("Meal Plan", systemImage:"calendar")
+            }
+            
+            NavigationStack {
+                ShoppingListView()
+            }
+            .tabItem {
+                Label("Shopping List", systemImage:"cart")
+            }
         }
-        .padding()
     }
 }
 
